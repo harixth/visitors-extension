@@ -10,7 +10,7 @@
     </parent>
     <groupId>my.jmbi.services</groupId>
     <artifactId>visitors-extension</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>visitors-extension</name>
     <description>visitors-extension</description>
     <properties>

@@ -1,0 +1,10 @@
+version: '3.5'
+services:
+  jmbi-visitors-service:
+    container_name: jmbi-visitors-service
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: on-failure
+    ports:
+      - "8080:8080"
